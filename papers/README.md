@@ -10,7 +10,7 @@
 
 > *Nothingness is the container that allows awareness to become everything.*
 
-Across physics, mathematics, philosophy, neuroscience, and the contemplative traditions of every major civilization, a single structural insight keeps appearing: the boundary between something and nothing is not a boundary at all. Zero is not empty — it is the most fertile state there is. This paper series assembles the evidence.
+Across physics, mathematics, philosophy, neuroscience, and the contemplative traditions of every major civilization, a single structural insight keeps appearing: the boundary between something and nothing is not a boundary at all. Zero is not empty — it is the most fertile state there is. And the mechanism is separation: to create something from zero is to cleave it from its inverse complement — the thing and the not-thing, together summing back to zero. This paper series assembles the evidence.
 
 ---
 
@@ -19,23 +19,23 @@ Across physics, mathematics, philosophy, neuroscience, and the contemplative tra
 ### Start here if you want the hook:
 
 **[Paper 1: Everything Sums to Zero](01-everything-sums-to-zero.md)**
-Sound waves cancel. Charges neutralize. Matter and antimatter annihilate. The universe's total energy may be exactly zero. Nature keeps its books balanced — and from that balance, everything arises. (~3,000 words)
+Sound waves cancel. Charges neutralize. Matter and antimatter annihilate. The universe's total energy may be exactly zero. Nature keeps its books balanced — and from that balance, everything arises. Now includes the Separation Principle: pair production, Hawking radiation, and vacuum polarization as physical evidence that creation is always the splitting of zero into complementary halves. (~3,000 words)
 
 ### Then go deeper:
 
 **[Paper 2: Awareness as Symmetry-Breaking Function](02-awareness-as-symmetry-breaking.md)**
-A single distinction, drawn in nothingness, generates all of logic. Category theory shows nothing is uniquely related to everything. Self-referential systems have irreducible fixed points. The formal statement: D: U → S. (~4,000 words)
+A single distinction, drawn in nothingness, generates all of logic. Category theory shows nothing is uniquely related to everything. Self-referential systems have irreducible fixed points. Now extended with the formal Separation Principle: every distinction D: U → S simultaneously produces its complement S̄, so that S ∪ S̄ = U and S ∩ S̄ = ∅ — creation as partition. (~4,000 words)
 
 **[Paper 3: The Generative Void — 2,500 Years of Philosophy](03-generative-void-philosophy.md)**
-From Anaximander's *apeiron* to Nagarjuna's *sunyata*, from Eckhart's divine nothingness to Sartre's consciousness-as-void — the philosophical traditions of East and West converge on a shared structural insight. (~4,000 words)
+From Anaximander's *apeiron* to Nagarjuna's *sunyata*, from Eckhart's divine nothingness to Sartre's consciousness-as-void — the philosophical traditions of East and West converge on a shared structural insight. Now expanded with Spinoza's *omnis determinatio est negatio*, Fichte's I/Not-I dialectic, Schelling's self-differentiating Absolute, Samkhya's Purusha/Prakriti, Kashmir Shaivism's Shiva/Shakti, Yin/Yang complementarity, and the Hermetic microcosm/macrocosm — all expressing creation as complementary separation. (~4,000 words)
 
 **[Paper 4: The Luminous Void — Consciousness Science Meets Contemplative Practice](04-luminous-void-consciousness.md)**
-Meditation neuroscience, Integrated Information Theory, predictive processing, and 40,000 years of contemplative practice converge: contentless awareness is not empty. It is consciousness in its most fundamental mode. (~3,500 words)
+Meditation neuroscience, Integrated Information Theory, predictive processing, and 40,000 years of contemplative practice converge: contentless awareness is not empty. It is consciousness in its most fundamental mode. Now includes the Separation Principle in psychology: Jung's Shadow as the inverse self, Lacan's mirror stage, self-model/world-model complementarity, and opponent-process theory showing that pain creates the same capacity and amount of pleasure — the experiential complement that sums to zero. (~3,500 words)
 
 ### Or read the unified work:
 
 **[Master Paper: Nothingness as Generative Ground](../nothingness-as-generative-ground.md)**
-The complete cross-disciplinary synthesis — all four papers woven into a single argument. (~12,000 words)
+The complete cross-disciplinary synthesis — all four papers woven into a single argument, now unified by the Separation Principle: creation from zero is separation into complementary inverse pairs, each completing the other back to the generative ground. (~12,000 words)
 
 ---
 
