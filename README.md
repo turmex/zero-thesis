@@ -2,7 +2,7 @@
 
 **A cross-disciplinary investigation into the thesis that emptiness is the container of awareness.**
 
-*David Celekli, with AI-assisted research and synthesis. February 2026.*
+*David Celekli, February 2026.*
 
 ---
 
