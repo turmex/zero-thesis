@@ -73,7 +73,6 @@ The complete cross-disciplinary synthesis — all four papers woven into a singl
                   Container of Awareness},
   year         = {2026},
   month        = {2},
-  note         = {With AI-assisted research and synthesis},
   url          = {https://github.com/davidcelekli/zero-thesis}
 }
 ```
