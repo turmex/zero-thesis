@@ -77,7 +77,7 @@ The complete cross-disciplinary synthesis — all four papers woven into a singl
 }
 ```
 
-Or in prose: Celekli, D. (2026). *Nothingness as Generative Ground: A Cross-Disciplinary Investigation into the Thesis That Emptiness Is the Container of Awareness.* With AI-assisted research and synthesis.
+Or in prose: Celekli, D. (2026). *Nothingness as Generative Ground: A Cross-Disciplinary Investigation into the Thesis That Emptiness Is the Container of Awareness.*
 
 ---
 
